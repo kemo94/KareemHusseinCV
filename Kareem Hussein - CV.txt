@@ -95,9 +95,6 @@ Android app to chat , exchange files and chat in private groups.
 - Pointing Mal App: June 2016
 Android app to calculate score of student’s activities in MAL program.Using Firebase.
 
-- Pointing Mal App: June 2016
-Android app to calculate score of student’s activities in MAL program.Using Firebase.
-
 - Movies App: February 2016 – April 2016
 Android app get details of latest movies in cinema and make it favorites, watch list and other feature like: 
 search and similar movies. Support multiple screen like tablet and phone with different size.
