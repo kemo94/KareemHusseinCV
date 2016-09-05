@@ -1,0 +1,142 @@
+PERSONAL DATA
+------------------------------------------------------------------------------------------------
+Name : Kareem Hussein
+Birth DATE: 4-8-1994 
+Mobile: 01151421688 
+Email: kariem.hussein94@gmail.com
+
+OBJECTIVE
+------------------------------------------------------------------------------------------------
+Seeking an opportunity to work as software engineer, to obtain and secure position that will enable me to use my organization skills as well as my ability to work well with people. 
+I am quick learner. I want to work in suitable environment that would challenge my technical skills and give me direction.
+
+
+CERTIFICATES & COURSES ATTENDED
+------------------------------------------------------------------------------------------------
+- Google/MCIT mobile developer launched program : February 2016.
+Android development.
+
+- Udemy online courses: March 2014
+Certification in HTML, CSS.
+
+- Microsoft Tech club: February 2014.
+Certification in Windows Application C#.
+
+- The ACM (ICPC): February 2013 –August 2015.
+Programming competition.
+
+- 180 Daraga: February 2013.
+Certification in basic of C++.
+
+
+EDUCATION
+------------------------------------------------------------------------------------------------
+- Bachelor's degree from the Faculty of Computers and Information - Cairo University 2012 – 2016
+- Major: Computer Science (CS)
+- Minor: Information System (IS)
+
+
+PERSONAL SKILLS
+------------------------------------------------------------------------------------------------
+- Flexible
+- Problem Solver
+- Cooperation
+- Eager to learn new things.
+- Never give up.
+- Believe that knowledge is for sharing.
+- Hard worker.
+- Self studying and learning.
+- Quickly learning.
+- E-Learning.
+
+
+ACTVITIES
+------------------------------------------------------------------------------------------------
+- Member in Resala-FCI 2012 – 2015
+- Member in Resala Charity Organization 2012 – up to date.
+
+
+PROGRAMMING LANGUAGES
+------------------------------------------------------------------------------------------------
+- Java SE, J2EE
+- C#, .NET
+- C++, C
+- MIPS Assembly
+- XML, JSON
+- PHP, HTML, MySQL, CSS, JavaScript, AngularJS, JSP, Servlet
+- Python, Prolog
+
+
+TECHNICAL SKILLS
+------------------------------------------------------------------------------------------------
+- Android Mobile Development
+- Design Pattern.
+- OOP.
+- Parallel Programming (MPI)
+
+
+KNOWLEDGE CONCEPT
+------------------------------------------------------------------------------------------------
+- Neural Network: Machine learning.
+- Software Engineering: Design pattern, TestNG.
+- Multimedia: Compression and Decompression JPEG algorithm.
+- Algorithms: Greedy, Brute-Force, Divide and conquer and Dynamic programming.
+
+
+PROJECTS
+------------------------------------------------------------------------------------------------
+
+- Polling Post App: September 2016
+Android app to get important news of all countries with their different languages.
+
+- Messenger App: August 2016
+Android app to chat , exchange files and chat in private groups.
+
+- Pointing Mal App: June 2016
+Android app to calculate score of student’s activities in MAL program.Using Firebase.
+
+- Pointing Mal App: June 2016
+Android app to calculate score of student’s activities in MAL program.Using Firebase.
+
+- Movies App: February 2016 – April 2016
+Android app get details of latest movies in cinema and make it favorites, watch list and other feature like: 
+search and similar movies. Support multiple screen like tablet and phone with different size.
+
+- Weather Prediction: April 2016 
+Android app predict weather and notify user of nearly dangerous area on map.
+
+- Polar Bear: April 2016
+Android app about social media.Using Firebase.
+
+- Periodic Table: September 2015
+Simple education Android app to teach periodic table of chemistry using images, animation and sounds.
+
+- Social Network : May 2015
+Website of social network using design pattern. Build J2E, Jason, HTML and Google App Engine.
+
+- Courses Online: August 2015
+Website to learn courses include materials, assignments and exams. Build using HTML,PHP, JavaScript and MySQL.
+
+- Movie Rental: November 2015
+Website to rent movies. Build using HTML, JSP, jQuery, JavaScript, Ajax, CSS and MySQL.
+
+- eCommerce: October 2014
+Website to buy products. Build using HTML,PHP, JavaScript and MySQL.
+
+
+GRADUTION PROJECT
+------------------------------------------------------------------------------------------------
+Motion Gesture Based Presentation System. The project objective is to eliminate all these obstacles that distracts the presenter from focusing on his ideas, and use the already exists hardware which is the webcam to communicate with the computer. Using feature like change slides, write text and other features by gesture. Build using openCV,C#. And make integration with power point.
+GP grade: A+
+
+
+LANGUAGES
+------------------------------------------------------------------------------------------------
+- Arabic: Mother Language.
+- English: Good.
+
+
+REFERENCES
+------------------------------------------------------------------------------------------------
+- LinkedIn: eg.linkedin.com/in/kareem-hussein-6b7831b4
+- Github: github.com/kemo94
