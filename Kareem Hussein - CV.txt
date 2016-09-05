@@ -123,7 +123,9 @@ Website to buy products. Build using HTML,PHP, JavaScript and MySQL.
 
 GRADUTION PROJECT
 ------------------------------------------------------------------------------------------------
-Motion Gesture Based Presentation System. The project objective is to eliminate all these obstacles that distracts the presenter from focusing on his ideas, and use the already exists hardware which is the webcam to communicate with the computer. Using feature like change slides, write text and other features by gesture. Build using openCV,C#. And make integration with power point.
+Motion Gesture Based Presentation System. The project objective is to eliminate all these obstacles that distracts the presenter from focusing on his ideas,
+ and use the already exists hardware which is the webcam to communicate with the computer. Using feature like change slides, write text and other features by gesture. 
+ Build using openCV,C#. And make integration with power point.
 GP grade: A+
 
 
